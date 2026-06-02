@@ -1,0 +1,14 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# JAR files (download manually - see README)
+libs/
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
