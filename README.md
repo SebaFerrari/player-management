@@ -1,6 +1,6 @@
 # Football Player Management ⚽
 
-A football player management desktop application built with Java Swing and MySQL.
+A football player management desktop application built with Java Swing and MySQL. Code in spanish
 
 ## Features
 
